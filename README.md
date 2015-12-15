@@ -12,8 +12,8 @@ repo sync -s
 
 #Infrastructure
 
-*Submit a snapshot xml file to manfeist server when the code build successfully.
-*Run repo sync -s commond to get the known latest good build code.
+* Submit a snapshot xml file to manfeist server when the code build successfully.
+* Run repo sync -s commond to get the known latest good build code.
 
 #License
 
